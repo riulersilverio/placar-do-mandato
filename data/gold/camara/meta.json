@@ -1,0 +1,57 @@
+{
+ "atualizado_em": "2026-10-14",
+ "anos": [
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "pesos": {
+  "resultado": 0.35,
+  "presenca": 0.3,
+  "producao": 0.2,
+  "fiscalizacao": 0.15
+ },
+ "pontos_estagio": {
+  "lei": 10,
+  "aprovada_casa": 5,
+  "avancou": 2,
+  "parada": 0.5,
+  "encerrada": 0
+ },
+ "min_votacoes": 50,
+ "temas": [
+  "Administração Pública",
+  "Agricultura, Pecuária, Pesca e Extrativismo",
+  "Arte, Cultura e Religião",
+  "Cidades e Desenvolvimento Urbano",
+  "Ciência, Tecnologia e Inovação",
+  "Ciências Exatas e da Terra",
+  "Ciências Sociais e Humanas",
+  "Comunicações",
+  "Defesa e Segurança",
+  "Direito Civil e Processual Civil",
+  "Direito Constitucional",
+  "Direito Penal e Processual Penal",
+  "Direito e Defesa do Consumidor",
+  "Direito e Justiça",
+  "Direitos Humanos e Minorias",
+  "Economia",
+  "Educação",
+  "Energia, Recursos Hídricos e Minerais",
+  "Esporte e Lazer",
+  "Estrutura Fundiária",
+  "Finanças Públicas e Orçamento",
+  "Homenagens e Datas Comemorativas",
+  "Indústria, Comércio e Serviços",
+  "Meio Ambiente e Desenvolvimento Sustentável",
+  "Política, Partidos e Eleições",
+  "Previdência e Assistência Social",
+  "Processo Legislativo e Atuação Parlamentar",
+  "Relações Internacionais e Comércio Exterior",
+  "Saúde",
+  "Trabalho e Emprego",
+  "Turismo",
+  "Viação, Transporte e Mobilidade"
+ ]
+}

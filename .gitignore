@@ -1,0 +1,13 @@
+# Dados brutos (≈900 MB): baixados de novo pelos scripts de coleta
+data/raw/
+
+# Texto extraído dos planos de governo: só serve para a curadoria local
+data/gold/governadores/planos/
+
+# Promessas só entram no repositório depois de revisadas (ver data/curadoria/COMO_REVISAR.md)
+data/curadoria/*.csv
+
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+*.log

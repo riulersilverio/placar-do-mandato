@@ -1,0 +1,17 @@
+{
+ "atualizado_em": "2026-10-15",
+ "pesos": {
+  "resultado": 0.35,
+  "presenca": 0.3,
+  "producao": 0.2,
+  "fiscalizacao": 0.15
+ },
+ "pontos_estagio": {
+  "lei": 10,
+  "aprovada_casa": 5,
+  "avancou": 2,
+  "parada": 0.5,
+  "encerrada": 0
+ },
+ "min_votacoes": 30
+}
